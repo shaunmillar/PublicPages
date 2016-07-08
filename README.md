@@ -1,2 +1,4 @@
 # PublicPages
-Demonstrates public accessible pages. 
+
+Switch to branch gh-pages and see README.md
+
